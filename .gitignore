@@ -26,3 +26,9 @@ dist-ssr
 
 # vscode
 .vscode
+
+# .env files
+.env
+.env.local
+.env.development
+.env.production
