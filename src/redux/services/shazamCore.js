@@ -2,8 +2,7 @@ import {createApi, fetchBaseQuery} from '@reduxjs/toolkit/query/react'
 import mockSongs from '../../mock/mockSongs'
 const useMock = import.meta.env.VITE_USE_MOCK === "true";
 const apiKey = import.meta.env.VITE_SHAZAM_API_KEY
-console.log("USE MOCK?", import.meta.env.VITE_USE_MOCK)
-console.log("API KEY:", import.meta.env.VITE_SHAZAM_API_KEY)
+
 // const options = {
 //   method: 'GET',
 //   headers: {
