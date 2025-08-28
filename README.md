@@ -1,5 +1,11 @@
 # Project Lyrics
-
+##NOTE "Around You", "Top Artists" and "Top Charts" Links are still under construction.
+## FUNCTIONALITIES:
+# Top Charts Panel
+# Play songs, functional song controls
+# Artist Page with artist related songs bellow
+# Song Page
+# Functional Search Bar
 Develop an elegant React.js Music Application. 
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
